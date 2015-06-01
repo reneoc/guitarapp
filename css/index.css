@@ -1,0 +1,308 @@
+.version.index /* version checker */
+{
+	color: #000011;
+	background-color: #920236;
+}
+
+@-ms-viewport
+{
+	width: 720px;
+}
+
+@-webkit-viewport
+{
+	width: 720px;
+}
+
+@-o-viewport
+{
+	width: 720px;
+}
+
+@-moz-viewport
+{
+	width: 720px;
+}
+
+@viewport
+{
+	width: 720px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 720px;
+	min-height: 1280px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u178
+{
+	z-index: 2;
+	width: 720px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#accordionu165wrapper
+{
+	min-height: 1119px;
+	z-index: 4;
+	margin-right: -10000px;
+	margin-top: 135px;
+}
+
+#accordionu165
+{
+	z-index: 4;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u166
+{
+	z-index: 5;
+	background-color: transparent;
+}
+
+#u169
+{
+	z-index: 7;
+	height: 156px;
+	width: 722px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u169.png") no-repeat 0px 0px;
+}
+
+#u169:hover
+{
+	background: url("../images/u169-r.png") no-repeat 0px 0px;
+}
+
+#u169:active
+{
+	background: url("../images/u169-m.png") no-repeat 0px 0px;
+}
+
+#u169.AccordionPanelTabOpen
+{
+	background: url("../images/u169-a.png") no-repeat 0px 0px;
+}
+
+#u167
+{
+	z-index: 11;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-right: 1px;
+	padding-bottom: 31px;
+}
+
+#u168-4
+{
+	z-index: 12;
+	width: 720px;
+	min-height: 558px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #999999;
+	font-size: 48px;
+	text-align: center;
+	line-height: 67px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u184
+{
+	z-index: 16;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 210px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u170
+{
+	z-index: 17;
+	background-color: transparent;
+}
+
+#u173
+{
+	z-index: 19;
+	height: 156px;
+	width: 722px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u173.png") no-repeat 0px 0px;
+}
+
+#u173:hover
+{
+	background: url("../images/u173-r.png") no-repeat 0px 0px;
+}
+
+#u173:active
+{
+	background: url("../images/u173-m.png") no-repeat 0px 0px;
+}
+
+#u173.AccordionPanelTabOpen
+{
+	background: url("../images/u173-a.png") no-repeat 0px 0px;
+}
+
+#u171
+{
+	z-index: 23;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-right: 1px;
+	padding-bottom: 15px;
+}
+
+#u172-4
+{
+	z-index: 24;
+	width: 720px;
+	min-height: 494px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #999999;
+	font-size: 48px;
+	text-align: center;
+	line-height: 67px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u197
+{
+	z-index: 28;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 210px;
+	margin-top: 64px;
+	position: relative;
+}
+
+#u174
+{
+	z-index: 29;
+	background-color: transparent;
+}
+
+#u166_position_content,#u170_position_content,#u174_position_content
+{
+	width: 100%;
+}
+
+#u177
+{
+	z-index: 31;
+	height: 156px;
+	width: 722px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u177.png") no-repeat 0px 0px;
+}
+
+#u177:hover
+{
+	background: url("../images/u177-r.png") no-repeat 0px 0px;
+}
+
+#u177:active
+{
+	background: url("../images/u177-m.png") no-repeat 0px 0px;
+}
+
+#u177.AccordionPanelTabOpen
+{
+	background: url("../images/u177-a.png") no-repeat 0px 0px;
+}
+
+#u175
+{
+	z-index: 35;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u176-4
+{
+	z-index: 36;
+	width: 720px;
+	min-height: 488px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #999999;
+	font-size: 48px;
+	text-align: center;
+	line-height: 67px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u201
+{
+	z-index: 40;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 210px;
+	margin-top: 12px;
+	position: relative;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#accordionu165-bw
+{
+	z-index: 4;
+}
+
+body
+{
+	position: relative;
+	min-width: 720px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
